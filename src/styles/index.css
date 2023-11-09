@@ -1,12 +1,21 @@
+.done {
+    text-decoration: line-through;
+    font-style: italic;
+}
 
-/* 
+.icon {
+    font-size: 2rem; 
+    margin-right: 10px; 
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.red {
+    color: rgb(165, 29, 29);
+}
 
-*/
+.green {
+    color: rgb(12, 119, 12);
+}
+
+.yellow {
+    color: rgb(255, 162, 0);
+}
